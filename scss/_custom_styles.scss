@@ -1,0 +1,17 @@
+.text-mint {
+	color: $mint;
+}
+
+
+.nav-pills {
+	.nav-link {
+	    color: #062033;
+	    font-weight: 600;
+	    font-size: 14px;
+		&:hover,
+		&.active {
+			background: #0ec493;
+	    	color: #fff;
+		}
+	}
+}

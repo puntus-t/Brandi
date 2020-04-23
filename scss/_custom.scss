@@ -1,0 +1,26 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+) !default;
+$mint: #0ec493 !default;
+$secondary: transparent;
+$font-family-base: 'Open Sans', sans-serif;
+$font-size-base: 0.8125rem;
+$btn-padding-y-sm: 3px;
+$btn-padding-x-sm: 8px;
+$btn-border-radius-sm: 5px;
+$btn-border-width: 1px;
+$carousel-indicator-width: 8px; 
+$carousel-indicator-height: 8px;
+$list-group-item-padding-y: 0px;
+$list-group-item-padding-x: 0px;
+$body-color: #fff;
+$link-color: #fff;
+$link-hover-decoration: none;
+$h1-font-size: 3.875rem;
+$h2-font-size: 1.75rem;
+$h3-font-size: 1.25rem;
+$h4-font-size: 1.125rem;
+$h5-font-size: 0.875rem;
